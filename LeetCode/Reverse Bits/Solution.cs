@@ -1,8 +1,11 @@
-public class Solution
+namespace CuddlyDollop.LeetCode
 {
-    public uint reverseBits(uint n)
+    public class Reverse_Bits_Solution
     {
-        Console.WriteLine($"test: {n}");
-        return 0;
+        public uint ReverseBits(uint n)
+        {
+            Console.WriteLine($"test: {n}");
+            return 0;
+        }
     }
 }

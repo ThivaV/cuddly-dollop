@@ -1,4 +1,4 @@
-﻿namespace bitwise_operator.Shift
+﻿namespace BitwiseOperators.Shift
 {
     internal class Right_Shift
     {

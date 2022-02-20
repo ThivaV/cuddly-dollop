@@ -1,4 +1,4 @@
-namespace bitwise_operator.Operators
+namespace BitwiseOperators.Operators
 {
     internal class And_Operator
     {

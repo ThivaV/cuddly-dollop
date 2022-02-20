@@ -1,13 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System;
+using BitwiseOperators.Operators;
+using BitwiseOperators.Shift;
 
-using bitwise_operator.Operators;
-using bitwise_operator.Shift;
-
-namespace BitwiseOperators
+namespace BitwiseOperators 
 {
-    class Program
+    class Program 
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             Console.WriteLine("Bitwise operators!");
             Console.WriteLine();
