@@ -1,4 +1,4 @@
-namespace CuddlyDollop.LeetCode
+namespace LeetCode
 {
     public class Counting_Bits_Solution
     {

@@ -1,4 +1,4 @@
-namespace CuddlyDollop.LeetCode
+namespace LeetCode
 {
     public class Reverse_Bits_Solution
     {

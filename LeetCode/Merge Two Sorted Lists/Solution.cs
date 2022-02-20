@@ -1,4 +1,4 @@
-﻿namespace CuddlyDollop.LeetCode
+﻿namespace LeetCode
 {
     internal class Merge_Two_Sorted_Lists_Solution
     {

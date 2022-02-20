@@ -1,4 +1,4 @@
-namespace CuddlyDollop.LeetCode
+namespace LeetCode
 {
     public class Three_Sum_Solution
     {
