@@ -9,7 +9,7 @@ Merge the two lists in a one **sorted** list. The list should be made by splicin
 
 ## Example 1:
 
-![Merge Two Sorted List](D:\repo\cuddly-dollop\Img\LeetCode\merge_ex1.jpg)
+![Merge Two Sorted List](/Img/LeetCode/merge_ex1.jpg)
 
 `Input: list1 = [1,2,4], list2 = [1,3,4]`
 
